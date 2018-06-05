@@ -1,0 +1,6 @@
+Konzept:
+
+Es soll eine Bootstrap Seite werden die für potenziele Kunden zur verfügung stehen soll. sie soll meine SKills zeigen und meine Projekte an denen ich beteiligt war.
+
+Apis:
+Font awosome
